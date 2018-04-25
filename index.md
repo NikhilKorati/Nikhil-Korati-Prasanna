@@ -1,3 +1,6 @@
-Hello welcome to my website 
+<h1> Hello welcome to my website
 
-Some exiting machine learning projects on display 
+<hr>
+
+<h3> Some exiting machine learning projects on display 
+
